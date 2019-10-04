@@ -1,3 +1,3 @@
 # hello-world
-My first program
+My first program.
 This is it. A new branch.
